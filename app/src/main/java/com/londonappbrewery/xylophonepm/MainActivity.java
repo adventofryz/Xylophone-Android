@@ -41,10 +41,10 @@ public class MainActivity extends AppCompatActivity {
         mCSoundId = mSoundPool.load(getApplicationContext(),R.raw.note1_c,1);
         mDSoundId = mSoundPool.load(getApplicationContext(),R.raw.note2_d,1);
         mESoundId = mSoundPool.load(getApplicationContext(),R.raw.note3_e,1);
-        mFSoundId = mSoundPool.load(getApplicationContext(),R.raw.note4_f,1);;
+        mFSoundId = mSoundPool.load(getApplicationContext(),R.raw.note4_f,1);
         mGSoundId = mSoundPool.load(getApplicationContext(),R.raw.note5_g,1);
         mASoundId = mSoundPool.load(getApplicationContext(),R.raw.note6_a,1);
-        mBSoundId = mSoundPool.load(getApplicationContext(),R.raw.note7_b,1);;
+        mBSoundId = mSoundPool.load(getApplicationContext(),R.raw.note7_b,1);
 
     }
 
